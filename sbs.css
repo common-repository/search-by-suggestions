@@ -1,0 +1,7 @@
+<style type="text/css">
+     .sbs_suggests { position:absolute; background-color:white; z-index:2; border:1px solid #999; padding-left:10px; padding:10px; }
+     .sbs_suggests { visibility:hidden; }
+
+     .sbs_suggests a:link, .sbs_suggests a:visited, .sbs_suggests a:active { text-decoration:none; color:#333; }
+     .sbs_suggests a:hover { background-color:#c73636; color:#fffea6; }
+</style>
